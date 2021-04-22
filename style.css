@@ -1,0 +1,271 @@
+body {
+  text-align: center;
+  background: #fefcea; /* Для старых браузров */
+  background: linear-gradient(to left, #b13589, #c37258);
+  color: #383838;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 27px;
+  margin: auto;
+}
+
+.header {
+  padding-top: 40px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.me {
+  margin-right: 215px;
+}
+
+.logo {
+  display: flex;
+  margin-top: 69px;
+  margin-left: 50px;
+}
+
+.info {
+}
+
+.name {
+  color: #6e3625;
+  font-family: Cormorant Infant;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 73px;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+  text-align: left;
+  margin-top: 69px;
+  flex: 50%;
+  margin-left: 260px;
+  margin-right: 30px;
+}
+.bio {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  margin-left: 260px;
+  color: #383838;
+  width: 459px;
+}
+
+.bio2 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  margin-left: 290px;
+  color: #383838;
+  margin-top: 45px;
+  width: 389px;
+}
+.photo {
+}
+
+.secret {
+  text-align: center;
+  margin-top: 30px;
+}
+.secret-text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  width: 33%;
+  color: #7e1613;
+  padding-left: 33%;
+  margin-top: 10px;
+}
+
+.facts {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 5%;
+}
+
+.facts-content {
+  white-space: nowrap;
+  display: flex;
+}
+
+.facts-text {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+}
+
+.interesting {
+  font-family: Cormorant Infant;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 65px;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+  color: #6e3625;
+}
+
+.int-img {
+  display: inline-block;
+  text-align: right;
+  margin-top: 260px;
+  margin-left: 50%;
+  box-shadow: 10px 10px 15px #ebe6e6;
+}
+
+.int-text {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 200%;
+  /* or 40px */
+  margin: 3px;
+
+  color: #383838;
+}
+
+.flower {
+  margin-bottom: 10%;
+}
+
+.power {
+  display: flex;
+  width: 200px;
+  height: 250px;
+  margin-top: 40px;
+  margin-left: 80%;
+  box-shadow: 10px 10px 15px #ebe6e6;
+}
+
+.love {
+  width: 50px;
+  height: 50px;
+}
+
+.heart {
+  margin-left: 22%;
+}
+
+/*.title-life {
+  font-family: Cormorant Infant;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 65px;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+  color: #6e3625;
+  margin-bottom: 55px;
+}
+
+.life {
+  white-space: nowrap;
+}
+.flowers {
+  white-space: normal;
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+  margin-bottom: 55px;
+}
+
+.line {
+  max-width: 100%;
+}
+
+.phot1 {
+}
+
+.mini-line {
+  margin-left: 8%;
+}
+
+.life-photo {
+  white-space: normal;
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+}*/
+.life {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.block-left {
+  width: 50%;
+  margin: 0;
+  float: left;
+}
+.block-right {
+  float: right;
+  text-align: center;
+}
+
+.title-life {
+  font-family: Cormorant Infant;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 54px;
+  line-height: 65px;
+  color: #6e3625;
+  text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4);
+  margin-left: 13%;
+  width: 100%;
+}
+
+.line {
+  max-width: 100%;
+}
+
+.all-photo {
+  width: 100%;
+}
+.photo1 {
+  margin-left: 15%;
+}
+
+.mini-line {
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.double {
+  margin-left: 15%;
+}
+
+.photo2 {
+  margin-top: 90%;
+}
+
+.ph {
+  margin-top: 42%;
+}
+
+.galery {
+  text-align: left;
+  margin-left: 53%;
+}
+
+.last {
+  margin-top: 20%;
+}
+
+.text {
+  font-family: Cormorant Infant;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  color: #441c0f;
+}
